@@ -1,0 +1,148 @@
+{
+  "schemes": [
+    {
+      "id": "pm001",
+      "name": "PM Kisan Samman Nidhi",
+      "ministry": "Ministry of Agriculture & Farmers Welfare",
+      "category": "Farmers",
+      "beneficiary": "Marginal and small farmers",
+      "benefit": "₹6,000 per annum in 3 installments",
+      "status": "Active",
+      "source_url": "https://pmkisan.gov.in",
+      "source_name": "Official PM-KISAN Portal",
+      "description": "Direct income support scheme for small and marginal farmer households. Eligible farmers receive ₹2,000 every four months."
+    },
+    {
+      "id": "bhamashah001",
+      "name": "Bhamashah Scheme",
+      "ministry": "Ministry of Women and Child Development",
+      "category": "Women",
+      "beneficiary": "Women aged 18-55 years",
+      "benefit": "₹5,00,000 health insurance + direct cash transfer",
+      "status": "Active",
+      "source_url": "https://india.gov.in",
+      "source_name": "India Gov Portal",
+      "description": "Health insurance and social security scheme for women with emphasis on health and life protection."
+    },
+    {
+      "id": "mudra001",
+      "name": "Pradhan Mantri Mudra Yojana",
+      "ministry": "Ministry of MSME",
+      "category": "MSME",
+      "beneficiary": "Non-corporate, non-farm small/micro businesses",
+      "benefit": "Loans up to ₹10 lakhs without collateral",
+      "status": "Active",
+      "source_url": "https://www.pib.gov.in/newsite/mbeu/contentmore.aspx?relid=153246",
+      "source_name": "PIB Official",
+      "description": "Scheme to facilitate loans to non-corporate, non-farm small/micro business units without collateral security."
+    },
+    {
+      "id": "nrlm001",
+      "name": "National Rural Livelihoods Mission",
+      "ministry": "Ministry of Rural Development",
+      "category": "Farmers",
+      "beneficiary": "Rural poor households",
+      "benefit": "Community support and self-help groups",
+      "status": "Active",
+      "source_url": "https://nrlm.gov.in",
+      "source_name": "NRLM Official Portal",
+      "description": "Community-driven development program focusing on reduction of poverty through livelihood initiatives."
+    },
+    {
+      "id": "skill001",
+      "name": "Pradhan Mantri Skill Development Scheme",
+      "ministry": "Ministry of Skill Development",
+      "category": "Youth",
+      "beneficiary": "Youth aged 15-45 years",
+      "benefit": "Free vocational training and job placement",
+      "status": "Active",
+      "source_url": "https://www.pmkvyofficial.org",
+      "source_name": "PMKVY Official Portal",
+      "description": "Skill development program providing vocational training to enhance employability of youth."
+    },
+    {
+      "id": "startup001",
+      "name": "Startup India Scheme",
+      "ministry": "Department for Promotion of Industry & Internal Trade",
+      "category": "MSME",
+      "beneficiary": "Startups and entrepreneurs",
+      "benefit": "Tax exemptions, subsidized IPR registration, faster patent processing",
+      "status": "Active",
+      "source_url": "https://www.startupindia.gov.in",
+      "source_name": "Startup India Official",
+      "description": "Comprehensive scheme to encourage entrepreneurship and foster innovation-led startups."
+    },
+    {
+      "id": "education001",
+      "name": "National Scholarship Portal",
+      "ministry": "Ministry of Education",
+      "category": "Education",
+      "beneficiary": "Class I to Post-graduation students",
+      "benefit": "Scholarships ranging from ₹12,000 to ₹1 lakh+ per annum",
+      "status": "Active",
+      "source_url": "https://scholarships.gov.in",
+      "source_name": "NSP Official Portal",
+      "description": "Consolidated platform for various central and state government scholarship schemes for students."
+    },
+    {
+      "id": "ayushman001",
+      "name": "Ayushman Bharat - PM-JAY",
+      "ministry": "Ministry of Labour & Employment",
+      "category": "Senior Citizens",
+      "beneficiary": "Vulnerable population below poverty line",
+      "benefit": "₹5 lakh free hospitalization per family per year",
+      "status": "Active",
+      "source_url": "https://pmjay.gov.in",
+      "source_name": "PM-JAY Official Portal",
+      "description": "World's largest public health insurance scheme providing health coverage to vulnerable families."
+    },
+    {
+      "id": "senior001",
+      "name": "Integrated Programme for Senior Citizens",
+      "ministry": "Ministry of Social Justice & Empowerment",
+      "category": "Senior Citizens",
+      "beneficiary": "Senior citizens aged 60+ years",
+      "benefit": "Subsidized medical care, food, entertainment, mobility",
+      "status": "Active",
+      "source_url": "https://india.gov.in",
+      "source_name": "India Gov Portal",
+      "description": "Comprehensive program for ensuring dignity and quality of life of senior citizens."
+    },
+    {
+      "id": "maternity001",
+      "name": "Pradhan Mantri Matritva Vandana Yojana",
+      "ministry": "Ministry of Women and Child Development",
+      "category": "Women",
+      "beneficiary": "Pregnant and lactating mothers",
+      "benefit": "₹5,000 cash assistance for health and nutrition",
+      "status": "Active",
+      "source_url": "https://wcd.nic.in",
+      "source_name": "WCD Ministry Official",
+      "description": "Monetary assistance scheme for pregnant women and lactating mothers."
+    },
+    {
+      "id": "housing001",
+      "name": "Pradhan Mantri Awas Yojana",
+      "ministry": "Ministry of Housing & Urban Affairs",
+      "category": "Farmers",
+      "beneficiary": "Economically weaker sections",
+      "benefit": "Home loans up to ₹9 lakhs with interest subsidy",
+      "status": "Active",
+      "source_url": "https://pmayonline.org",
+      "source_name": "PM Awas Yojana Official",
+      "description": "Housing scheme to provide affordable housing to economically weaker sections."
+    },
+    {
+      "id": "ujwala001",
+      "name": "Pradhan Mantri Ujjwala Yojana",
+      "ministry": "Ministry of Petroleum & Natural Gas",
+      "category": "Farmers",
+      "beneficiary": "Below poverty line households",
+      "benefit": "Free LPG connection with 5 kg cylinder and stove",
+      "status": "Active",
+      "source_url": "https://pmuy.gov.in",
+      "source_name": "PM Ujjwala Yojana Official",
+      "description": "Scheme to provide clean cooking fuel to below poverty line households."
+    }
+  ]
+}
